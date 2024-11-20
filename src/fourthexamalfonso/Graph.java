@@ -1,9 +1,10 @@
 package fourthexamalfonso;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
-import java.util.*;
 
 public class Graph {
     private Map<String, Set<String>> friendsMap;
